@@ -1,4 +1,4 @@
-# Lecture-4-C-Basics
+# Lecture 4 C++ Basics
 
 EXERCISES 
 
